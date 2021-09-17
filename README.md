@@ -6,7 +6,7 @@ Es una api que recibe por parámetro un valor numerico que permite calcular los 
 
 _debe tener instalado node para ejecutar el proyecto"_
 
-Para ejecutar el codigo, clone el proyecto y abra la carpeta con nombre "api" en una terminal
+Para ejecutar el codigo, clone el proyecto y abra la carpeta con nombre "api" en un Entorno de desarollo (IDE)
 Luego escriba en la terminar el siguiente comando: _node app.js_
 
 Una vez ejecutado este comando deberá abrir el navegador y agregar la siguiente dirección: http://localhost:3000/pi/?random_limit=10
